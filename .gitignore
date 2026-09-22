@@ -1,0 +1,13 @@
+# Build outputs (Ant + Maven)
+/dist/
+/target/
+/examples/classes/
+/tests/classes/
+/tests/output/
+
+# Generated local build configuration
+build.properties
+tests/build.properties
+
+# Java artifacts
+*.class
