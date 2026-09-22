@@ -1,9 +1,0 @@
-{
-  "name": "Apache Log4j 1.3 (JDK 8 + Ant)",
-  "user": "ubuntu",
-  "build": {
-    "dockerfile": "Dockerfile",
-    "context": ".."
-  },
-  "install": "bash .cursor/install.sh"
-}
